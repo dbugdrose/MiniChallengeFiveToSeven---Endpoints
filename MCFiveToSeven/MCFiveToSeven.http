@@ -1,0 +1,6 @@
+@MCFiveToSeven_HostAddress = http://localhost:5018
+
+GET {{MCFiveToSeven_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
