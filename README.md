@@ -16,4 +16,4 @@
 
 //4. ReverseIt (Numbers Only): endpoint that accepts a sequence of only numbers and returns a sentence that displays both original and reversed sequences.
      - 
-// Peer review:
+// Peer review: Nicolas Gonzaba-The code looks good for the most part, the only thing is that the Alphanumeric Reverse it requires both letters and numbers, not accepting one or the other alone, which i don't belive is part of the assignmnet.
